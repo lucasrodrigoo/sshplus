@@ -1,0 +1,1 @@
+wget http://iptvhard.com/sshplus/install_panelweb.sh; chmod +x install_panelweb.sh; ./install_panelweb.sh
